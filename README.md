@@ -3,7 +3,7 @@ School Project for MVC Architecture
 
 Project1 is a website using Java Servlets
 
-#XQuery - Interacting with XML
+# XQuery - Interacting with XML
 Through bash and Xquery, set up sorted XML and HTML files from a XML data set.
 - done2 holds best result files
 
