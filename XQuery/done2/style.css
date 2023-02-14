@@ -1,0 +1,26 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 800px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.money {
+    text-align: right;
+    color: rgb(0, 0, 0);
+}
+
+.highlight {
+  background-color: #b74e4e;
+  border: solid 1px red;
+  color: black;
+}
+
+tfoot td, thead th {
+  background-color: orange;
+  font-weight: bold;
+}

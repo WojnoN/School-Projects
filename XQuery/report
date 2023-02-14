@@ -1,0 +1,27 @@
+    77 Mon Nov 14 07:41:10 EST 2022 META-INF/MANIFEST.MF
+  1672 Sun Dec 12 16:55:08 EST 2021 .classpath
+   561 Wed Dec 01 14:13:40 EST 2021 .project
+   523 Sun Dec 12 16:52:26 EST 2021 pom.xml
+107113 Wed Dec 01 17:27:46 EST 2021 lib/saxon9-xqj.jar
+5506668 Wed Dec 01 17:27:46 EST 2021 lib/saxon9he.jar
+   547 Sun Nov 13 23:35:48 EST 2022 resources/tobeDeleted/01.Snippet.txt
+   768 Mon Nov 14 00:41:36 EST 2022 edu/citytech/xml/course/Test.java
+  2450 Fri Dec 10 19:11:16 EST 2021 edu/citytech/xml/course/ScratchPad.java
+   310 Sun Nov 13 23:20:02 EST 2022 edu/citytech/xml/course/DTD.java
+  1459 Mon Nov 14 06:57:12 EST 2022 edu/citytech/xml/course/WriteUTF8Data.java
+  1673 Sun Nov 13 23:52:18 EST 2022 edu/citytech/xml/course/JXQuery.java
+  2951 Mon Nov 14 00:44:06 EST 2022 edu/citytech/xml/course/XMLUtilForDTD.java
+  2661 Mon Nov 14 06:57:56 EST 2022 edu/citytech/xml/course/JXQueryWithDTD.java
+    77 Mon Nov 14 07:37:34 EST 2022 xquery
+   250 Sun Nov 13 23:12:12 EST 2022 META-INF/maven/com.jbbwebsolution.xquery/05.XQuery/pom.properties
+   523 Sun Nov 13 23:12:12 EST 2022 META-INF/maven/com.jbbwebsolution.xquery/05.XQuery/pom.xml
+   628 Sun Nov 13 23:20:02 EST 2022 edu/citytech/xml/course/DTD.class
+  2504 Mon Nov 14 06:57:12 EST 2022 edu/citytech/xml/course/JXQuery.class
+  3821 Mon Nov 14 06:57:56 EST 2022 edu/citytech/xml/course/JXQueryWithDTD.class
+  6230 Sun Nov 13 23:12:12 EST 2022 edu/citytech/xml/course/ScratchPad.class
+   906 Mon Nov 14 00:41:36 EST 2022 edu/citytech/xml/course/Test.class
+  2737 Mon Nov 14 06:57:12 EST 2022 edu/citytech/xml/course/WriteUTF8Data.class
+  1376 Mon Nov 14 00:44:08 EST 2022 edu/citytech/xml/course/XMLUtilForDTD$1.class
+  1376 Mon Nov 14 00:44:08 EST 2022 edu/citytech/xml/course/XMLUtilForDTD$2.class
+  2393 Mon Nov 14 00:44:08 EST 2022 edu/citytech/xml/course/XMLUtilForDTD.class
+   547 Sun Nov 13 23:35:48 EST 2022 tobeDeleted/01.Snippet.txt
